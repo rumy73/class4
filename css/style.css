@@ -64,9 +64,9 @@ nav ul li a{
 
 
 nav ul li a:hover{
-    background-color: orange;
+    background-color: #068282;
     padding: 6px 12px;
-    box-shadow: 2px 3px 4px #FFC107;
+    box-shadow: 2px 3px 4px #06FFA2;
 }
 
 .header-banner{
@@ -139,8 +139,6 @@ nav ul li a:hover{
 }
 
 .service-one img{
-    width: 150px;
-    height: 150px;
    display: block;
    margin: 0 auto;
 }
@@ -194,8 +192,8 @@ nav ul li a:hover{
 }
 
 .service-two img{
- width: 160px;
- height: 160px;
+ width: 30%;
+ height: 30%;
  margin: 0 auto;
  display: block;
 
@@ -250,8 +248,6 @@ nav ul li a:hover{
 }
 
 .skill-title{
- width: 50%;
- height: 50%;
  margin: 0 auto;
  text-align: center;
 }
@@ -504,7 +500,6 @@ footer{
     word-spacing: 50px;
     font-size: 17px;
     text-align: center;
-    font-family: cursive;
     color: white;
     padding: 5px;
 }
